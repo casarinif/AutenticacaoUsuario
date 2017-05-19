@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "518210785245",
+    "firebase_url": "https://whatt-54d37.firebaseio.com",
+    "project_id": "whatt-54d37",
+    "storage_bucket": "whatt-54d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518210785245:android:68cee8403718b656",
+        "android_client_info": {
+          "package_name": "com.cursoandroid.autenticacaousuario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518210785245-e7uld49avcmbo86lanbih87u6qaeecrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursoandroid.autenticacaousuario",
+            "certificate_hash": "4c8f841dc19bb60f3bdf8ec703bdc9f29f7d4e87"
+          }
+        },
+        {
+          "client_id": "518210785245-1q27rk7s35610rrn8mq8n8a0eiujovd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_MvYxFR_NYwf7GSNuat3gxVGRGdDT-VA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518210785245-1q27rk7s35610rrn8mq8n8a0eiujovd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
